@@ -1,0 +1,10 @@
+C:\Users\vladd\Desktop\Projects Visual Studio\ClipboardLogger\ClipboardLogger\ClipboardLogger\bin\Debug\ClipboardLogger.exe.config
+C:\Users\vladd\Desktop\Projects Visual Studio\ClipboardLogger\ClipboardLogger\ClipboardLogger\bin\Debug\ClipboardLogger.exe
+C:\Users\vladd\Desktop\Projects Visual Studio\ClipboardLogger\ClipboardLogger\ClipboardLogger\bin\Debug\ClipboardLogger.pdb
+C:\Users\vladd\Desktop\Projects Visual Studio\ClipboardLogger\ClipboardLogger\ClipboardLogger\obj\Debug\ClipboardLogger.csprojAssemblyReference.cache
+C:\Users\vladd\Desktop\Projects Visual Studio\ClipboardLogger\ClipboardLogger\ClipboardLogger\obj\Debug\ClipboardLogger.Form1.resources
+C:\Users\vladd\Desktop\Projects Visual Studio\ClipboardLogger\ClipboardLogger\ClipboardLogger\obj\Debug\ClipboardLogger.Properties.Resources.resources
+C:\Users\vladd\Desktop\Projects Visual Studio\ClipboardLogger\ClipboardLogger\ClipboardLogger\obj\Debug\ClipboardLogger.csproj.GenerateResource.cache
+C:\Users\vladd\Desktop\Projects Visual Studio\ClipboardLogger\ClipboardLogger\ClipboardLogger\obj\Debug\ClipboardLogger.csproj.CoreCompileInputs.cache
+C:\Users\vladd\Desktop\Projects Visual Studio\ClipboardLogger\ClipboardLogger\ClipboardLogger\obj\Debug\ClipboardLogger.exe
+C:\Users\vladd\Desktop\Projects Visual Studio\ClipboardLogger\ClipboardLogger\ClipboardLogger\obj\Debug\ClipboardLogger.pdb
